@@ -36,5 +36,5 @@ Após a escolha da carta pelo jogador, o computador faz a sua seleção. O resul
 ## 📌 Créditos:
 
 - Os assets utilizados no projeto estão disnponíveis no repositório: [digitalinnovationone/js-yugioh-assets](https://github.com/digitalinnovationone/js-yugioh-assets).
-- Também foi utilizado o framework [RPGUI](https://github.com/RonenNess/RPGUI) que fornece uma conjunto de assets no estilo RPG pronto para uso.
+- Também foi utilizado o framework [RPGUI](https://github.com/RonenNess/RPGUI) que fornece um conjunto de assets no estilo RPG pronto para uso.
 
